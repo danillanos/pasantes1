@@ -1,0 +1,6 @@
+{
+  "name": "app",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
