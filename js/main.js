@@ -1,4 +1,3 @@
-//https://github.com/jmperez/spotify-web-api-js
 var spotifyApi = new SpotifyWebApi();
 var token ="BQCeJaqRKv2TMh6Z4w2JggKk6uNzuS6fdTIW5iH1lyPpZanfzRs8BJQfxOrnEdeFR789ZR1xawyl9W9rFnoegp3kHcUFsu9_J2a_AdOH9AiH_BJESpCmKQWc7PBGBpuwekyI57e14h_7BM5It9pNre4Whq6aXs9xHKis";
 spotifyApi.setAccessToken(token);
